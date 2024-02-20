@@ -1,0 +1,47 @@
+
+modelagem de dados para uma escola:
+
+1°tabela-contruir uma tabela de " cadastro de alunos" com as colunas sendo:
+-idade-int
+-nome-varchar
+-RA-varchar
+-responsavel-varchar
+-serie-varchar
+----------------------------------------------
+
+2°tabela-construir uma tabela de "cadastro de funcionarios" com as colunas sendo:
+-idade-int
+-nome-varchar
+-cargo-varchar
+-periodo-date/time
+-id-auto
+-salario-money
+-telefone-varchar
+----------------------------------------------
+
+3°tabela-construir uma tabela de "cursos" com as colunas sendo:
+nome do curso-varchar
+data de inicio-date/time
+data de termino-date/time
+valor do curso-varchar
+grade_curso-varchar
+periodo-date/time
+----------------------------------------------
+
+4°tabela-construir uma tabela de "salas" com as colunas sendo:
+
+id_salas-auto
+nome-varchar
+local-varchar
+situação-varchar
+data_agendamento-date/time
+----------------------------------------------
+
+5°tabela-construir uma tabela de "Responsavel" com as colunas sendo:
+
+id_responsavel-auto
+nome-varchar
+cpf-varchar
+endereço-varchar
+email-varchar
+telefone-varchar
