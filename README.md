@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=38F77CFF&center=true&vCenter=true&repeat=false&width=435&lines=anthonyrct" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=847792&center=true&vCenter=true&repeat=false&width=435&lines=anthonyrct" alt="Typing SVG" /></a>
 </p> <br>
   
   <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=91F793FF&center=true&vCenter=true&width=435&lines=Prazer,+meu+nome+é+anthony.;Tenho+17+anos.;Posso+Não+Conhecer+Você.;Mas,+Lembre-se+Tenha+Sempre+Determinação." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=7C1ADD&center=true&vCenter=true&width=435&lines=Prazer,+meu+nome+é+anthony.;Tenho+17+anos.;Posso+Não+Conhecer+Você.;Mas,+Lembre-se+Tenha+Sempre+Determinação." alt="Typing SVG" /></a>
   </p> <br>
 
 
