@@ -12,3 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyrct&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius G. F. github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyrct&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div> <br> <br>
+
+
+<div align="center">
+    <br><br><br><br><br><br><p align="centre"><b>esse perfil foi visitado:     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{anthonyrct}/count.svg" /></p>   uau!</b></p>  
+    <br>
+  </div>
